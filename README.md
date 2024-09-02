@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👨‍💻 Computer Science Undergrad  <br>🌐 Into Full Stack web development<br>🚀 Love to build and solve problems<br>📚 Sharing knowledge, always learning & evolving<br>
 
